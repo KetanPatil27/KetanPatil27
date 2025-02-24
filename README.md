@@ -68,10 +68,18 @@
 <div align="center">
 
 ### 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=KetanPatil27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KetanPatil27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KetanPatil27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ketanpatil27&show_icons=true&locale=en" alt="ketanpatil27" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanpatil27&" alt="ketanpatil27" />
+   <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketanpatil27&show_icons=true&locale=en&layout=compact" alt="ketanpatil27" />
+</div>
+
+
+
+---
 
 🔹 **I'm open to new opportunities! Feel free to reach out.** 😊
 </div>
