@@ -72,8 +72,6 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ketanpatil27&show_icons=true&theme=blue-green&locale=en" alt="ketanpatil27" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanpatil27&theme=blue-green" alt="ketanpatil27" />
-   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketanpatil27&show_icons=true&theme=blue-green&locale=en&layout=compact" alt="ketanpatil27" />
 </div>
 
