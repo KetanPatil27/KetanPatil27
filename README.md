@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ACFCF&width=600&lines=🚀+Associate+Software+Engineer+At+Rezolve+AI...;Full-Stack+Developer+%7C+MERN+%7C+Spring+Boot...;Exploring+AI%2C+LLMs%2C+MCP+%26+Agentic+AI+Workflows...;Building+Web+%26+AI-Powered+Applications;Always+Learning+and+Building..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ACFCF&width=600&lines=🚀+Associate+Software+Engineer+At+Rezolve+AI...;Full-Stack+Developer+%7C+MERN+%7C+Spring+Boot...;Exploring+AI%2C+LLMs%2C+MCP+%26+Agentic+AI+Workflows...;Building+Web+%26+AI-Powered+Applications...;Always+Learning+and+Building..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,11 +25,13 @@
 
 ---
 
-### 📌 **About Me**  
-- 👨‍💻 **Java Backend Developer** with expertise in building scalable and secure applications.  
-- 🌱 Exploring **advanced Spring Boot concepts** and **system design** to enhance my skills.  
-- 🔍 Seeking **opportunities as a Java Developer** to contribute and grow.  
-- 🚀 Passionate about **writing clean, efficient, and maintainable code**.   
+### 📌 About Me
+
+- 👨‍💻 Associate Software Engineer focused on Full-Stack Development with MERN and Spring Boot.
+- ☕ Strong foundation in Java, Spring Boot, REST APIs, and database design.
+- 🤖 Exploring AI, LLMs, MCP, and Agentic AI systems.
+- 🚀 Passionate about building scalable, reliable, and intelligent applications.
+- 🌱 Continuously learning new technologies and software engineering best practices.
 
 ---
 
